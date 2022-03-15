@@ -1,0 +1,11 @@
+div{
+  display: flex;
+  justify-content: center;
+  margin-top: 30%;
+  padding: 20px;
+
+}
+
+body{
+  background-color: beige;
+}
